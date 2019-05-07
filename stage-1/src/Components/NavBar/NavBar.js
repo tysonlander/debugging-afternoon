@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
 import './NavBar.css';
-import Logo from './../dev-mountain-logo.png'
+import Logo from './dev-mountain-logo.png'
 
-class NavBar extends Component {
+class NavBar extends Component { 
   render() {
     return (
       <div>

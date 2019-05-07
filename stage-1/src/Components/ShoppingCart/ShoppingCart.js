@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import "./ShoppingCart.css";
+import "./ShoppingCart.css"; 
 
 class ShoppingCart extends Component {
   render() {
